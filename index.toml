@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/immersive_portals.json"
+hash = "bae6f039d41f0f6759bb103642e09e1f287c299cef2c143c8e783a5400a7b7bf"
+
+[[files]]
 file = "mods/automodpack.pw.toml"
 hash = "c0b5090dfcccb2450e9ea9938a75ef5a3cef166c24da962bb3a401ef679d4797"
 metafile = true
