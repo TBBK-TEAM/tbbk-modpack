@@ -4,6 +4,8 @@ mods/*.jar
 # Packwiz
 .packwiz/
 .packwiz.toml
+*.mrpack
+*.zip
 
 # IDE
 .idea/

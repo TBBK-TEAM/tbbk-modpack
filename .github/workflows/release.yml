@@ -1,0 +1,39 @@
+name: Release
+
+on:
+  push:
+    tags: ['v*']          # 打 v 开头的 tag 触发，如 v0.0.1
+  workflow_dispatch:     # 可选手动触发
+
+permissions:
+  contents: write        # 创建 release 需要
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: 'stable'
+
+      - name: Install packwiz
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: Refresh index
+        run: packwiz refresh
+
+      - name: Export Modrinth modpack
+        run: packwiz mr export -o tbbk-modpack-${{ github.ref_name }}.mrpack
+
+      - name: Create GitHub Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create "${{ github.ref_name }}" \
+            "tbbk-modpack-${{ github.ref_name }}.mrpack" \
+            --title "Release ${{ github.ref_name }}" \
+            --generate-notes
