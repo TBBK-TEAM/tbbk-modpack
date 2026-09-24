@@ -35,6 +35,11 @@ hash = "ac0f4ecde3f081c4b951981b3d2ea8c08b49e61399b13a91e23d84c59306cac1"
 metafile = true
 
 [[files]]
+file = "mods/iptl-fix.pw.toml"
+hash = "566dd707e8b538efafc87b5967f7dcc3a21413edd8ea6f5ddf696b3394df4ff3"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
