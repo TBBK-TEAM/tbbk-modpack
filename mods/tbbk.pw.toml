@@ -1,0 +1,8 @@
+name = "tbbk"
+filename = "tbbk-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://ghproxy.net/https://raw.githubusercontent.com/TBBK-TEAM/tbbk-modpack/main/dist/tbbk-1.0.0.jar"
+hash-format = "sha256"
+hash = "2f0e93776db250b9f0c398d56ca39f9dbc6c7bdc545d8e1e0f9af35e2e27fcf9"

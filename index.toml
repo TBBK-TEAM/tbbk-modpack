@@ -41,12 +41,17 @@ metafile = true
 
 [[files]]
 file = "mods/iptl-fix.pw.toml"
-hash = "566dd707e8b538efafc87b5967f7dcc3a21413edd8ea6f5ddf696b3394df4ff3"
+hash = "40604074e0ad47b7f67b642613c36b65dd507c15e9091dc1c95372d0598c8f88"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/tbbk.pw.toml"
+hash = "77cf68d888486e96923bd416b7b8aa8cdd61f7c74575792c0f724f5e086fcce9"
 metafile = true
 
 [[files]]
