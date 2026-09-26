@@ -1,0 +1,13 @@
+name = "Handheld Moon - (with flashlight)"
+filename = "HandheldMoon-neoforge-1.21.1-1.1.0-fix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pKlHQBvX/versions/6S70zJEM/HandheldMoon-neoforge-1.21.1-1.1.0-fix.jar"
+hash-format = "sha512"
+hash = "76f4558b05866b2816f865e5f9dd4d2a1329b7b328c5dc91922ddea2b11af9690f6798108e22d93a79e3e2719a39211df21278a9c88e4e78aef3a92e4b0b55e7"
+
+[update]
+[update.modrinth]
+mod-id = "pKlHQBvX"
+version = "6S70zJEM"

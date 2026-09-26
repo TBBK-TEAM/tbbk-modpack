@@ -1,0 +1,13 @@
+name = "Moves Like Mafuyu"
+filename = "moveslikemafuyu-neoforge-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3AmRjjga/versions/4ubkUaEA/moveslikemafuyu-neoforge-1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "837a8d016606da5021149d89f5215f4b9cb27c3fd14f3994e73e5cf8ee427e2ca189237ac802212aa69183c0c8f4d77c19e44c3c0772ce959df8b4e2dc5c2e0e"
+
+[update]
+[update.modrinth]
+mod-id = "3AmRjjga"
+version = "4ubkUaEA"

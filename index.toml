@@ -5,6 +5,11 @@ file = "config/immersive_portals.json"
 hash = "bae6f039d41f0f6759bb103642e09e1f287c299cef2c143c8e783a5400a7b7bf"
 
 [[files]]
+file = "mods/anvilcraft.pw.toml"
+hash = "5577d3eaf54b8fde545a52c9bee42d157e1e9698d7ae8b970dab137408338ceb"
+metafile = true
+
+[[files]]
 file = "mods/automodpack.pw.toml"
 hash = "c0b5090dfcccb2450e9ea9938a75ef5a3cef166c24da962bb3a401ef679d4797"
 metafile = true
@@ -12,6 +17,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "4892513825f87217b6cc3f4d3ec4dcd3965b96dede8cc10d6578c4769102ae8e"
 metafile = true
 
 [[files]]
@@ -25,8 +35,23 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/createbetterfps.pw.toml"
+hash = "b6a535a801939a78f255203f7b28319773becca20cc88348f8764f4078816300"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "95ad690c28da310450f8b32878a9ca1a0d997a072b6da3f22153b21688d9069a"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
+metafile = true
+
+[[files]]
+file = "mods/handheld-moon.pw.toml"
+hash = "309126187336a02e942276563e029fc0e77643732a5bae1896e7aa7126c76559"
 metafile = true
 
 [[files]]
@@ -45,6 +70,36 @@ hash = "40604074e0ad47b7f67b642613c36b65dd507c15e9091dc1c95372d0598c8f88"
 metafile = true
 
 [[files]]
+file = "mods/irons-simple-blood.pw.toml"
+hash = "adf945224f27dae32902e21466da01ba0803d1ecba8e6a6fdb20178619cfd2ff"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "a970ffa9dabefee6e82a6dc10bb140ff65ee785e1575672ab985f65fb461527f"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
+metafile = true
+
+[[files]]
+file = "mods/moves-like-mafuyu.pw.toml"
+hash = "1068cd22c4ed8e6c03982ab0251297d812e6f516c0018e142b34ea4d9b1b1fb8"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "2f0c858e1e303aba06718a27c1628134418d53825bd46e3c44cabe1b442636c7"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "2d45e747634f18813476b01a13507fa99e01e330334f11c3ed8b6a074faf3b5f"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
@@ -52,6 +107,21 @@ metafile = true
 [[files]]
 file = "mods/tbbk.pw.toml"
 hash = "77cf68d888486e96923bd416b7b8aa8cdd61f7c74575792c0f724f5e086fcce9"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "a303683e4c74640f419c31db329e9afc3ee8f388abc5c6a536dc6169c274b5c6"
+metafile = true
+
+[[files]]
+file = "mods/tt20.pw.toml"
+hash = "86a078669a3fdb4d5fd9944e8eea1ba54bf7888719bba145d3177dcda066f233"
+metafile = true
+
+[[files]]
+file = "mods/vics-point-blank.pw.toml"
+hash = "4b11f8fdedd3b99842f6d9d99334955c2aafebe6a8d7f4d4e2521b74c07e01d9"
 metafile = true
 
 [[files]]
