@@ -1,60 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/immersive_portals.json"
-hash = "bae6f039d41f0f6759bb103642e09e1f287c299cef2c143c8e783a5400a7b7bf"
-
-[[files]]
 file = "mods/automodpack.pw.toml"
 hash = "c0b5090dfcccb2450e9ea9938a75ef5a3cef166c24da962bb3a401ef679d4797"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails-1.21.1.pw.toml"
-hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
-metafile = true
-
-[[files]]
-file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
-hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
-metafile = true
-
-[[files]]
-file = "mods/imblocker-original.pw.toml"
-hash = "91a73d149ab0a877d9a0ab5c10b0938ca049f23e23632db31aea834cd002252c"
-metafile = true
-
-[[files]]
-file = "mods/immersive-portals-neoforge.pw.toml"
-hash = "ac0f4ecde3f081c4b951981b3d2ea8c08b49e61399b13a91e23d84c59306cac1"
-metafile = true
-
-[[files]]
-file = "mods/iptl-fix.pw.toml"
-hash = "40604074e0ad47b7f67b642613c36b65dd507c15e9091dc1c95372d0598c8f88"
-metafile = true
-
-[[files]]
-file = "mods/spark.pw.toml"
-hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
-metafile = true
-
-[[files]]
-file = "mods/tbbk.pw.toml"
-hash = "77cf68d888486e96923bd416b7b8aa8cdd61f7c74575792c0f724f5e086fcce9"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
 metafile = true
