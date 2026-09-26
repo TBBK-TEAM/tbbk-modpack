@@ -25,6 +25,11 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
+metafile = true
+
+[[files]]
 file = "mods/imblocker-original.pw.toml"
 hash = "91a73d149ab0a877d9a0ab5c10b0938ca049f23e23632db31aea834cd002252c"
 metafile = true
