@@ -140,6 +140,11 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
+file = "mods/stellarcreateoptimization.pw.toml"
+hash = "4c0afce948c0204efc25e24372d5eb7189707333c114ce3f755b3da41252dc13"
+metafile = true
+
+[[files]]
 file = "mods/tbbk.pw.toml"
 hash = "77cf68d888486e96923bd416b7b8aa8cdd61f7c74575792c0f724f5e086fcce9"
 metafile = true
