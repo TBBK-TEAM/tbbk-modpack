@@ -3,11 +3,6 @@ filename = "toms_storage_star_optimized-0.9.3.jar"
 side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "b61886db6f06ea867f17fe7c9f1f332b1bf5cef6"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8792982
-project-id = 1472108
+url = "https://ghproxy.net/https://raw.githubusercontent.com/TBBK-TEAM/tbbk-modpack/main/dist/toms_storage_star_optimized-0.9.3.jar"
+hash-format = "sha256"
+hash = "5851d2f9c9f95b3e9d4b4c35618abfb29f22929a2e53b72db439a47c62c65e27"
