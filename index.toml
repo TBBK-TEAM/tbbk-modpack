@@ -70,11 +70,6 @@ hash = "b09c2171a7d0a672e3fd5339fe657088f3d666e0fac0908057df9c4f7efea970"
 metafile = true
 
 [[files]]
-file = "mods/iptl-fix.pw.toml"
-hash = "40604074e0ad47b7f67b642613c36b65dd507c15e9091dc1c95372d0598c8f88"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "ed7d500877392d0dc94accef28e94c5035c74f4581b7ac1522a90ce18d2ab6b0"
 metafile = true
