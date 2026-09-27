@@ -6,3 +6,10 @@ side = "both"
 url = "https://github.com/TBBK-TEAM/ImmersivePortalsModForNeo/releases/download/v6.0.9/immersive_portals-6.0.9-all.jar"
 hash-format = "sha256"
 hash = "12c9989ac143b801d6673099ec9ada0c5d5e1e817b0270afaf4af818557b223d"
+
+[update]
+[update.github]
+branch = "1.21"
+regex = "^immersive_portals-.*-all\\.jar$"
+slug = "TBBK-TEAM/ImmersivePortalsModForNeo"
+tag = "v6.0.9"
