@@ -90,6 +90,11 @@ hash = "1068cd22c4ed8e6c03982ab0251297d812e6f516c0018e142b34ea4d9b1b1fb8"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-chest-optimized.pw.toml"
+hash = "cbe4d3d54e2a9f4f4c574602c2607c19eba3e9751ce811de4def21398a90db17"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "2f0c858e1e303aba06718a27c1628134418d53825bd46e3c44cabe1b442636c7"
 metafile = true
@@ -107,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/tbbk.pw.toml"
 hash = "77cf68d888486e96923bd416b7b8aa8cdd61f7c74575792c0f724f5e086fcce9"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage-star-optimized.pw.toml"
+hash = "945a53cb1fef3ea65bc0d62c16623d2247dc45196ac9c1faedb7b43e5428fe96"
 metafile = true
 
 [[files]]
