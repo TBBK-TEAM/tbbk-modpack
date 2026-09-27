@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-chest-optimized.pw.toml"
-hash = "cbe4d3d54e2a9f4f4c574602c2607c19eba3e9751ce811de4def21398a90db17"
+hash = "78deaa071c351dd204cc2017ea5a605067750b255106dd01b98471500628b400"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage-star-optimized.pw.toml"
-hash = "945a53cb1fef3ea65bc0d62c16623d2247dc45196ac9c1faedb7b43e5428fe96"
+hash = "7c163fd4690924bb2e53d8359df55befab7ee75875f024a8baac426659bc9c6d"
 metafile = true
 
 [[files]]

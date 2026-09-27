@@ -1,6 +1,6 @@
 name = "Sophisticated Chest Optimized"
 filename = "sophisticated_chest_optimized-1.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
