@@ -10,6 +10,11 @@ hash = "5577d3eaf54b8fde545a52c9bee42d157e1e9698d7ae8b970dab137408338ceb"
 metafile = true
 
 [[files]]
+file = "mods/apricityui.pw.toml"
+hash = "97e9d337e51e53b8c23d7634b8a7c4479428ccc1ada2a87b6294a2c53b32e0f3"
+metafile = true
+
+[[files]]
 file = "mods/automodpack.pw.toml"
 hash = "c0b5090dfcccb2450e9ea9938a75ef5a3cef166c24da962bb3a401ef679d4797"
 metafile = true
@@ -45,6 +50,11 @@ hash = "95ad690c28da310450f8b32878a9ca1a0d997a072b6da3f22153b21688d9069a"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "0789c9f6c10b5cddaa37eeb9388b068b168cd8c0ee1d21f0c3b78d160fc48fdd"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
@@ -70,6 +80,11 @@ hash = "40604074e0ad47b7f67b642613c36b65dd507c15e9091dc1c95372d0598c8f88"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "ed7d500877392d0dc94accef28e94c5035c74f4581b7ac1522a90ce18d2ab6b0"
+metafile = true
+
+[[files]]
 file = "mods/irons-simple-blood.pw.toml"
 hash = "adf945224f27dae32902e21466da01ba0803d1ecba8e6a6fdb20178619cfd2ff"
 metafile = true
@@ -80,13 +95,28 @@ hash = "a970ffa9dabefee6e82a6dc10bb140ff65ee785e1575672ab985f65fb461527f"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "092b5edc3c6f1cdbf31b9320c5ef27c6968d2bb56697542ed897bc696d64fbc3"
 metafile = true
 
 [[files]]
+file = "mods/melody.pw.toml"
+hash = "d7ff27bf5e0c0bd5ede8303d5a41cec193f700292c78c86ad6812a5193f013d9"
+metafile = true
+
+[[files]]
 file = "mods/moves-like-mafuyu.pw.toml"
 hash = "1068cd22c4ed8e6c03982ab0251297d812e6f516c0018e142b34ea4d9b1b1fb8"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "8060272fe07b2506170b23077472468be6cf87b4593ad42e16a22e1f1ab69769"
 metafile = true
 
 [[files]]
