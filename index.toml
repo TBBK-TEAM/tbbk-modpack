@@ -5,13 +5,17 @@ file = "config/immersive_portals.json"
 hash = "bae6f039d41f0f6759bb103642e09e1f287c299cef2c143c8e783a5400a7b7bf"
 
 [[files]]
+file = "dac-agent.jar"
+hash = "7d1005bfdab88e2ae50af10026ce45dab67d6b720bb0a62199f1cba29992a6e8"
+
+[[files]]
 file = "mods/anvilcraft.pw.toml"
-hash = "5577d3eaf54b8fde545a52c9bee42d157e1e9698d7ae8b970dab137408338ceb"
+hash = "53ae34dd31cfe3c3a18284eaecbc155131411867711c945605a400f4083b54f8"
 metafile = true
 
 [[files]]
 file = "mods/automodpack.pw.toml"
-hash = "c0b5090dfcccb2450e9ea9938a75ef5a3cef166c24da962bb3a401ef679d4797"
+hash = "ccaff094153dd670e859bb5646c5fa3224e75cbcd43289af2612e624dc0ecf19"
 metafile = true
 
 [[files]]
@@ -66,12 +70,12 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-portals-neoforge.pw.toml"
-hash = "b09c2171a7d0a672e3fd5339fe657088f3d666e0fac0908057df9c4f7efea970"
+hash = "4a6c787a31fb7417bde2a4f8036b6b39af6fff34fef11ff536523a51d8b9afe1"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ed7d500877392d0dc94accef28e94c5035c74f4581b7ac1522a90ce18d2ab6b0"
+hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
@@ -106,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8060272fe07b2506170b23077472468be6cf87b4593ad42e16a22e1f1ab69769"
+hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
@@ -116,12 +120,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "2f0c858e1e303aba06718a27c1628134418d53825bd46e3c44cabe1b442636c7"
+hash = "5d4e493a74a7deb175d278274e6990f92d1a3910fae5d4866a1520bbca9acce2"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "2d45e747634f18813476b01a13507fa99e01e330334f11c3ed8b6a074faf3b5f"
+hash = "aea57e9f582f669231634b1d311c68a2d7d26f26d53865e00839e211d3059074"
 metafile = true
 
 [[files]]
@@ -135,19 +139,17 @@ hash = "4c0afce948c0204efc25e24372d5eb7189707333c114ce3f755b3da41252dc13"
 metafile = true
 
 [[files]]
-file = "mods/tbbk.pw.toml"
-hash = "77cf68d888486e96923bd416b7b8aa8cdd61f7c74575792c0f724f5e086fcce9"
-metafile = true
-
-[[files]]
-file = "mods/toms-storage-star-optimized.pw.toml"
-hash = "2270592989d23d15a2eedf2c34f868a8cc939f338c0ae680a390d3e8d634e714"
-metafile = true
+file = "mods/tbbk-1.0.0.jar"
+hash = "2f0e93776db250b9f0c398d56ca39f9dbc6c7bdc545d8e1e0f9af35e2e27fcf9"
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "a303683e4c74640f419c31db329e9afc3ee8f388abc5c6a536dc6169c274b5c6"
 metafile = true
+
+[[files]]
+file = "mods/toms_storage_star_optimized-0.9.3.jar"
+hash = "5851d2f9c9f95b3e9d4b4c35618abfb29f22929a2e53b72db439a47c62c65e27"
 
 [[files]]
 file = "mods/tt20.pw.toml"
