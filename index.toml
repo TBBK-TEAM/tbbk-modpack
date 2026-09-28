@@ -148,8 +148,9 @@ hash = "a303683e4c74640f419c31db329e9afc3ee8f388abc5c6a536dc6169c274b5c6"
 metafile = true
 
 [[files]]
-file = "mods/toms_storage_star_optimized-0.9.3.jar"
-hash = "5851d2f9c9f95b3e9d4b4c35618abfb29f22929a2e53b72db439a47c62c65e27"
+file = "mods/toms-storage-star-optimized.pw.toml"
+hash = "2270592989d23d15a2eedf2c34f868a8cc939f338c0ae680a390d3e8d634e714"
+metafile = true
 
 [[files]]
 file = "mods/tt20.pw.toml"
