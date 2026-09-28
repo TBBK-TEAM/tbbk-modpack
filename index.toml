@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/immersive_portals.json"
-hash = "bae6f039d41f0f6759bb103642e09e1f287c299cef2c143c8e783a5400a7b7bf"
-
-[[files]]
 file = "dac-agent.jar"
 hash = "7d1005bfdab88e2ae50af10026ce45dab67d6b720bb0a62199f1cba29992a6e8"
 
@@ -70,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-portals-neoforge.pw.toml"
-hash = "4a6c787a31fb7417bde2a4f8036b6b39af6fff34fef11ff536523a51d8b9afe1"
+hash = "95efae345091e4977037a48a395562c8b7165a7503eccc87e27dd0534225134b"
 metafile = true
 
 [[files]]
@@ -143,13 +139,13 @@ file = "mods/tbbk-1.0.0.jar"
 hash = "2f0e93776db250b9f0c398d56ca39f9dbc6c7bdc545d8e1e0f9af35e2e27fcf9"
 
 [[files]]
-file = "mods/toms-storage.pw.toml"
-hash = "a303683e4c74640f419c31db329e9afc3ee8f388abc5c6a536dc6169c274b5c6"
+file = "mods/toms-storage-star-optimized.pw.toml"
+hash = "2270592989d23d15a2eedf2c34f868a8cc939f338c0ae680a390d3e8d634e714"
 metafile = true
 
 [[files]]
-file = "mods/toms-storage-star-optimized.pw.toml"
-hash = "2270592989d23d15a2eedf2c34f868a8cc939f338c0ae680a390d3e8d634e714"
+file = "mods/toms-storage.pw.toml"
+hash = "a303683e4c74640f419c31db329e9afc3ee8f388abc5c6a536dc6169c274b5c6"
 metafile = true
 
 [[files]]
