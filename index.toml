@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "dac-agent.jar"
-hash = "7d1005bfdab88e2ae50af10026ce45dab67d6b720bb0a62199f1cba29992a6e8"
-
-[[files]]
 file = "mods/anvilcraft.pw.toml"
 hash = "53ae34dd31cfe3c3a18284eaecbc155131411867711c945605a400f4083b54f8"
 metafile = true
