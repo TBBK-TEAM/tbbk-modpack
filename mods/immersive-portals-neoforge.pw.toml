@@ -3,9 +3,9 @@ filename = "immersive_portals-6.1.1-all.jar"
 side = "both"
 
 [download]
-url = "https://github.com/TBBK-TEAM/ImmersivePortalsModForNeo/releases/download/v6.1.1/immersive_portals-6.1.1-all.jar"
+url = "https://gh-proxy.com/https://github.com/TBBK-TEAM/ImmersivePortalsModForNeo/releases/download/v6.1.1/immersive_portals-6.1.1-all.jar"
 hash-format = "sha256"
-hash = "4d7aa87f359b5180cf651c1b30f42362b3cb2df3cd3bb1eedcde476f99bc3938"
+hash = "ac6ca12c3e67a669de987b55311646dd7550257a8c9508fe567387b0cb4ebfc2"
 
 [update]
 [update.github]

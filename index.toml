@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-portals-neoforge.pw.toml"
-hash = "95efae345091e4977037a48a395562c8b7165a7503eccc87e27dd0534225134b"
+hash = "f684029b105dbe9ea615bb44b6039e657931bdf5e2d30c55386090121ef4348a"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ hash = "2f0e93776db250b9f0c398d56ca39f9dbc6c7bdc545d8e1e0f9af35e2e27fcf9"
 
 [[files]]
 file = "mods/toms-storage-star-optimized.pw.toml"
-hash = "2270592989d23d15a2eedf2c34f868a8cc939f338c0ae680a390d3e8d634e714"
+hash = "02149bd750144efe70f8f9e050d985498816948dba61f82c604bde33588c864d"
 metafile = true
 
 [[files]]
