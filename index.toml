@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "download-jdk.bat"
-hash = "43acb68c2309f57a2a989b19abc5a6f450aa6edc85001a40712ea21be5b83373"
-
-[[files]]
 file = "mods/anvilcraft.pw.toml"
 hash = "53ae34dd31cfe3c3a18284eaecbc155131411867711c945605a400f4083b54f8"
 metafile = true
