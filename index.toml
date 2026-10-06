@@ -1,8 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
+file = "download-jdk.bat"
+hash = "54f5f0f7fb25dd138a4241aac268191a654432f521b14ade0f0ff27c3423672d"
+
+[[files]]
 file = "mods/anvilcraft.pw.toml"
 hash = "53ae34dd31cfe3c3a18284eaecbc155131411867711c945605a400f4083b54f8"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
@@ -38,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "95ad690c28da310450f8b32878a9ca1a0d997a072b6da3f22153b21688d9069a"
+metafile = true
+
+[[files]]
+file = "mods/dlc-manager.pw.toml"
+hash = "ca3529d5862617036bfb46066b9bdb0c0bb7cc10ef57aaf274a4f6f124702e19"
 metafile = true
 
 [[files]]
@@ -86,8 +100,18 @@ hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "092b5edc3c6f1cdbf31b9320c5ef27c6968d2bb56697542ed897bc696d64fbc3"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
 metafile = true
 
 [[files]]

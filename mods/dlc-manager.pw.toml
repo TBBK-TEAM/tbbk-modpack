@@ -1,0 +1,13 @@
+name = "DLC Manager"
+filename = "DLC-Manager-neoforge-1.21.1-4.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B05EUil9/versions/9ghEXrz5/DLC-Manager-neoforge-1.21.1-4.0.3.jar"
+hash-format = "sha512"
+hash = "8bf984b798d3ef1480a257501bee2ac8db95a555b3d7941fc9f99ab9811fcbe55a54f4776ae4a2c33c8a957f94ada25d10e4a0a8cd6dfdf9541e934890fbb84c"
+
+[update]
+[update.modrinth]
+mod-id = "B05EUil9"
+version = "9ghEXrz5"
